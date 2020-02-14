@@ -1,6 +1,6 @@
 {
   "name": "web-survey-themes",
-  "homepage": "http://LukasBarry.github.io/web-survey-themes"
+  "homepage": "http://LukasBarry.github.io/web-survey-themes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
