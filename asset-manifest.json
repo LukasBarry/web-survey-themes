@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-survey-themes/static/css/main.35d1c15d.chunk.css",
+    "main.js": "/web-survey-themes/static/js/main.78377156.chunk.js",
+    "main.js.map": "/web-survey-themes/static/js/main.78377156.chunk.js.map",
+    "runtime-main.js": "/web-survey-themes/static/js/runtime-main.913c9602.js",
+    "runtime-main.js.map": "/web-survey-themes/static/js/runtime-main.913c9602.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/web-survey-themes/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.28e9258f.chunk.js": "/web-survey-themes/static/js/2.28e9258f.chunk.js",
+    "static/js/2.28e9258f.chunk.js.map": "/web-survey-themes/static/js/2.28e9258f.chunk.js.map",
+    "index.html": "/web-survey-themes/index.html",
+    "precache-manifest.876fe58ae97c27d15f0921a6e0c91ddc.js": "/web-survey-themes/precache-manifest.876fe58ae97c27d15f0921a6e0c91ddc.js",
+    "service-worker.js": "/web-survey-themes/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/web-survey-themes/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.35d1c15d.chunk.css.map": "/web-survey-themes/static/css/main.35d1c15d.chunk.css.map",
+    "static/js/2.28e9258f.chunk.js.LICENSE.txt": "/web-survey-themes/static/js/2.28e9258f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913c9602.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.28e9258f.chunk.js",
+    "static/css/main.35d1c15d.chunk.css",
+    "static/js/main.78377156.chunk.js"
+  ]
+}
